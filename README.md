@@ -27,4 +27,6 @@ Icons for platforms like LinkedIn, GitHub, Whatsapp, and Instagram are included.
 
 ## 📁 File Structure
 
+portfolio-project/ │ ├── index.html # Main HTML file ├── style.css # Custom CSS styling ├── assets/ # Folder for images, icons, and other media │ ├── powerbi-frame.html # Embedded Power BI iframe (if separate) │ └── icons/ # Social media icons (LinkedIn, GitHub, etc.) ├── README.md # Project documentation └── .gitignore # Git ignore rules (optional)
+
 
